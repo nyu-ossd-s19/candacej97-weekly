@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
+Front End Web Developer (Working toward Full Stack)
+
 ### More Information
 
 Hey there 👋🏾
