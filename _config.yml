@@ -5,15 +5,15 @@
 # CUSTOMIZE
 # Name of your site (displayed in the header)
 # This should be your name or nickname.
-name: Your Name
+name: Candace Johnson
 
 # CUSTOMIZE
 # Short bio or description aout you (displayed in the header)
-description: CSCI-UA 480 Student, Spring 2019
+description: Front End Web Developer (Working toward Full Stack)
 
 # CUSTOMIZE
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://avatars1.githubusercontent.com/u/46607804?s=200&v=4
+avatar: https://avatars1.githubusercontent.com/u/19660119?s=40&v=4
 
 # CUSTOMIZE
 #
@@ -26,11 +26,11 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: nyu-ossd-s19
-  instagram:
-  linkedin:
+  github: candacej97
+  instagram: childoftheking_
+  linkedin: candacejohnson313
   pinterest:
-  twitter:
+  twitter: candacej313
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
@@ -41,14 +41,14 @@ footer-links:
 # It should be "/USER_NAME-weekly" in which USER_NAME is replaced by your actual
 # user name for GitHub.
 
-url: "https://nyu-ossd-s18.github.io/weekly"
+url: "https://nyu-ossd-s18.github.io/candacej97-weekly"
 
 # CUSTOMIZE
 # Replace this with the name of your own repository.
 # It should be "/USER_NAME-weekly" in which USER_NAME is replaced by your actual
 # user name for GitHub.
 
-baseurl: "/weekly"
+baseurl: "/candacej97-weekly"
 
 #
 # !! You don't need to change any of the configuration flags below !!
