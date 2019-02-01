@@ -11,7 +11,7 @@ Front End Web Developer (Working toward Full Stack)
 Hey there 👋🏾
 I'm a first-generation Jamaican-American 🇯🇲🇺🇸 who has:
 * studied abroad in Firenze 🇮🇹
-    * visited family in London 🏴󠁧󠁢󠁥󠁮󠁧󠁿
+    * visited family in London 🇬🇧
     * visited La tour Eiffel 🇫🇷
 * has a sister who studied and currently lives in Canada 🇨🇦
 * cruised and visited
@@ -19,8 +19,8 @@ I'm a first-generation Jamaican-American 🇯🇲🇺🇸 who has:
     * Bahamas 🇧🇸
     * Antigua 🇦🇬
     * St. Kitts & Nevis 🇰🇳
-    * Sint Maarten
-    * St. Lucia
+    * Sint Maarten 🇸🇽
+    * St. Lucia 🇱🇨
     * Puerto Rico 🇵🇷
 
 About my code...
