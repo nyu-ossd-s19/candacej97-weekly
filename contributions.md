@@ -21,5 +21,5 @@ Replace the first row with your contribution.
 | Week #       | Contribution (Link)  | Type  | Description | 
 |---|:---|:---|:---| 
 |  3   | [link to my contribution](https://github.com/nyu-ossd-s19/tickStop/issues/1)    | contribution on another group's extension    |   I requested a feature.    |
-|     |     |     |      |
+|  3   | [link to my contribution](https://github.com/nyu-ossd-s19/ToDoList-team13/issues/1)    |  contribution on another group's extension   |  I reported a bug.    |
 |     |     |     |      |
