@@ -20,6 +20,8 @@ Replace the first row with your contribution.
 
 | Week #       | Contribution (Link)  | Type  | Description | 
 |---|:---|:---|:---| 
-|  3   | [link to my contribution](https://github.com/nyu-ossd-s19/tickStop/issues/1)    | contribution on another group's extension    |   I requested a feature.    |
-|  3   | [link to my contribution](https://github.com/nyu-ossd-s19/ToDoList-team13/issues/1)    |  contribution on another group's extension   |  I reported a bug.    |
-|  6   |  [link to my issue](https://github.com/joannakl/ossd_s19/issues/2) [link to my pr](https://github.com/joannakl/ossd_s19/pull/3)   |  bug report/pr to the course site repo  |   I reported a bug and created a PR.   |
+|  3   | [link](https://github.com/nyu-ossd-s19/tickStop/issues/1)    | Feature Request     |   I requested a feature on another group's Firefox extension.    |
+|  3   | [link](https://github.com/nyu-ossd-s19/ToDoList-team13/issues/1)    |  Bug Report   |  I reported a bug on group 13's Firefox extension.    |
+|  6   |  [link to my issue](https://github.com/joannakl/ossd_s19/issues/2) [link to my pr](https://github.com/joannakl/ossd_s19/pull/3)   |  Bug Report & Pull Request  |   I reported a bug and created a PR for the course site's repo.   |
+|  8   |  [link](https://github.com/nyu-ossd-s19/ToDoList-team13/pull/2)   |  Pull Request  |   I created a PR for the issue I reported to this group in the 3rd week.   |
+
