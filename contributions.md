@@ -24,4 +24,4 @@ Replace the first row with your contribution.
 |  3   | [link](https://github.com/nyu-ossd-s19/ToDoList-team13/issues/1)    |  Bug Report   |  I reported a bug on group 13's Firefox extension.    |
 |  6   |  [link to my issue](https://github.com/joannakl/ossd_s19/issues/2) [link to my pr](https://github.com/joannakl/ossd_s19/pull/3)   |  Bug Report & Pull Request  |   I reported a bug and created a PR for the course site's repo.   |
 |  8   |  [link](https://github.com/nyu-ossd-s19/ToDoList-team13/pull/2)   |  Pull Request  |   I created a PR for the issue I reported to this group in the 3rd week.   |
-
+|  8   |  [link](https://github.com/ReadyPlayer2/nasa-playgrounds/pull/17)   |  Pull Request  |   I created a PR ti fix a routing issue the developer was having.   |
