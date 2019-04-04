@@ -27,4 +27,4 @@ Replace the first row with your contribution.
 |  8   |  [link](https://github.com/ReadyPlayer2/nasa-playgrounds/pull/17)   |  Pull Request  |   I created a PR to fix a routing issue the developer was having.   |
 |  9   |  [link](https://github.com/nyu-ossd-s19/vivfang-weekly/pull/2)   |  Pull Request  |   I created a PR to fix a [spelling issue](https://github.com/nyu-ossd-s19/vivfang-weekly/issues/1) on the blog.   |
 |  9   |  [link](https://github.com/joannakl/ossd_s19/pull/8)   |  Pull Request  |   I created a PR to fix a minor spelling issue on the course site.   |
-|  9   |  [link](https://en.wikipedia.org/w/index.php?limit=50&title=Special%3AContributions&contribs=user&target=Candacej97&namespace=&tagfilter=&start=&end=)   |  Edits  |   I made edits to a couple Wikipedia articles.   |
+|  9   |  [Wiki: Alice Vickery](https://en.wikipedia.org/wiki/Alice_Vickery) [Wiki: Nairobi National Park Bridge](https://en.wikipedia.org/wiki/Nairobi_National_Park_Super_Major_Bridge)   |  Edits  |   I made edits to a couple Wikipedia articles.   |
