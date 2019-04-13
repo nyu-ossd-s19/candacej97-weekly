@@ -27,6 +27,6 @@ Replace the first row with your contribution.
 |  8   |  [link](https://github.com/ReadyPlayer2/nasa-playgrounds/pull/17)   |  Pull Request  |   I created a PR to fix a routing issue the developer was having.   |
 |  9   |  [link](https://github.com/nyu-ossd-s19/vivfang-weekly/pull/2)   |  Pull Request  |   I created a PR to fix a [spelling issue](https://github.com/nyu-ossd-s19/vivfang-weekly/issues/1) on the blog.   |
 |  9   |  [link](https://github.com/joannakl/ossd_s19/pull/8)   |  Pull Request  |   I created a PR to fix a minor spelling issue on the course site.   |
-|  9   |  [Wiki: Alice Vickery](https://en.wikipedia.org/wiki/Alice_Vickery) [Wiki: Nairobi National Park Bridge](https://en.wikipedia.org/wiki/Nairobi_National_Park_Super_Major_Bridge)   |  Edits  |   I made edits to a couple Wikipedia articles.   |
+|  9   |  [Wiki: Alice Vickery](https://en.wikipedia.org/wiki/Alice_Vickery)<br>[Wiki: Nairobi National Park Bridge](https://en.wikipedia.org/wiki/Nairobi_National_Park_Super_Major_Bridge)<br>[Wiki: List of Contributions](https://en.wikipedia.org/wiki/Special:Contributions/Candacej97)   |  Edits  |   I made edits to a couple Wikipedia articles.   |
 |  10   |  [link](https://github.com/joannakl/ossd_s19/pull/11)  |  Pull Request  |   I created a PR to fix date issues on the course site for class #20 and #21.   |
-
+|  11   |  [Wiki: Adobe Softwares](https://en.wikipedia.org/wiki/List_of_Adobe_software)<br>[Wiki: List of Contributions](https://en.wikipedia.org/wiki/Special:Contributions/Candacej97)   |  Edit  |   I added Adobe XD to a this Wiki article.   |
