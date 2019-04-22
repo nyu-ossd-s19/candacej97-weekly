@@ -30,3 +30,4 @@ Replace the first row with your contribution.
 |  9   |  [Wiki: Alice Vickery](https://en.wikipedia.org/wiki/Alice_Vickery)<br>[Wiki: Nairobi National Park Bridge](https://en.wikipedia.org/wiki/Nairobi_National_Park_Super_Major_Bridge)<br>[Wiki: List of Contributions](https://en.wikipedia.org/wiki/Special:Contributions/Candacej97)   |  Edits  |   I made edits to a couple Wikipedia articles.   |
 |  10   |  [link](https://github.com/joannakl/ossd_s19/pull/11)  |  Pull Request  |   I created a PR to fix date issues on the course site for class #20 and #21.   |
 |  11   |  [Wiki: Adobe Softwares](https://en.wikipedia.org/wiki/List_of_Adobe_software)<br>[Wiki: List of Contributions](https://en.wikipedia.org/wiki/Special:Contributions/Candacej97)   |  Edit  |   I added Adobe XD to a this Wiki article.   |
+| 12 | [issue](https://github.com/joannakl/ossd_s19/issues/16) | Issue | Opened an issue to the OSSD course site for the correction of the final exam date. |
